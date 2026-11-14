@@ -1,4 +1,4 @@
-# Pharmacy Prescription Tracker UI
+# Pharmacy Tracker UI
 
 A React frontend dashboard built with **Vite** that connects to the [PharmacyTrackerApi](https://github.com/KimS-WT/PharmacyTrackerApi) to view patient records, add prescriptions, and process refills in real time.
 
